@@ -34,7 +34,7 @@ class KitchenHelper extends Employee {
                 }
                 break;
         }
-        System.out.println("Sorry we are out of this ingredient! So we dont call police if you fuck us!");
+        System.out.println("Sorry we are out of this ingredient!");
         return false;
     }
 }
